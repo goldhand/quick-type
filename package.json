@@ -1,0 +1,24 @@
+{
+  "name": "quick-type",
+  "version": "0.1.0",
+  "description": "Simple type checking that's a little better than the native typeof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldhand/quick-type.git"
+  },
+  "keywords": [
+    "javascript",
+    "type",
+    "check"
+  ],
+  "author": "Will Farley <a.will.farley@gmail.com> (https://goldhand.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldhand/quick-type/issues"
+  },
+  "homepage": "https://github.com/goldhand/quick-type#readme"
+}
